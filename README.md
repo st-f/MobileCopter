@@ -25,11 +25,6 @@ Just a technical demo. This experiment has no purpose at all.
 2. Install APK
 3. Touch events allows to pinch to zoom and rotate by dragging
 
-**Developer's manual**
-
-1. Install Flash Builder 4.6 Premium
-2. Make sure the Lab repo is checked out and this repo folder is included inside the Lab repo (the Lab's .gitignore contains MobileCopter). 
-
 
 **Screenshots**
 
