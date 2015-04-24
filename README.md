@@ -1,6 +1,8 @@
 # MobileCopter
 
-An experiment with Android apps made with Adobe AIR. It's an interactive animation of an helicopter in 3D (Away3D), using a cell shading rendering
+**An experiment with Android apps made with Adobe AIR. It's an interactive animation of an helicopter in 3D (Away3D), using a cell shading rendering**
+
+
 
 ![alt text](README_files/1.png "title")
 
@@ -17,7 +19,7 @@ An experiment with Android apps made with Adobe AIR. It's an interactive animati
 
 Just a technical demo. This experiment has no purpose at all.
 
-**User's manual : **
+**User's manual :**
 
 1. Download AIR on the play store
 2. Install APK
