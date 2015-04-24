@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="MobileCarGame">
+    <configurations>
+      <configuration name="MobileCarGame" target-platform="Mobile" main-class="MobileCarGame" output-file="MobileCarGame.swf" output-folder="$MODULE_DIR$/bin-debug">
+        <dependencies>
+          <entries>
+            <entry library-id="c24867f1-1a9b-4877-ab96-0dcfdafd2bc1">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="51166601-6b75-4e72-9396-731e9e77d21e">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="7dd7fa5b-5f21-442c-8aab-68adec179b2d">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="2077c57c-80fc-4cbf-acc9-a7c44d2114b1">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="libs" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin1" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin2" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.10" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/MobileCarGame-app.xml" package-file-name="MobileCarGame">
+          <files-to-package>
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/src/assets/dodge_challenger.mtl" path-in-package="assets/dodge_challenger.mtl" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/src/assets/dodge_challenger.obj" path-in-package="assets/dodge_challenger.obj" />
+          </files-to-package>
+          <AirSigningOptions keystore-path="$MODULE_DIR$/cert.p12" />
+        </packaging-android>
+        <packaging-ios use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/MobileCarGame-app.xml" package-file-name="MobileCarGame" />
+      </configuration>
+      <configuration name="JoystickTest" target-platform="Mobile" main-class="JoystickTest" output-file="JoystickTest.swf" output-folder="$MODULE_DIR$/bin-debug">
+        <dependencies>
+          <entries>
+            <entry library-id="38661f60-0a67-4693-bccd-cd53c061f07f">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="2a565692-3132-47ff-bced-08cb864dfb42">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="5df14005-f8d7-46db-ba69-d3a55fad5054">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="2349baa0-d20c-4dd9-87dd-ab240f3c2d6a">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="libs" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin1" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin2" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.10" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/JoystickTest-app.xml" package-file-name="JoystickTest">
+          <AirSigningOptions keystore-path="$MODULE_DIR$/cert.p12" />
+        </packaging-android>
+        <packaging-ios use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/JoystickTest-app.xml" package-file-name="JoystickTest" />
+      </configuration>
+      <configuration name="ShallowWater" target-platform="Mobile" main-class="ShallowWater" output-file="ShallowWater.swf" output-folder="$MODULE_DIR$/bin-debug">
+        <dependencies>
+          <entries>
+            <entry library-id="0a921082-8de8-4380-96e7-30d1137b88da">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="c5df878d-44f4-4bc7-9084-1867c63509c2">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="42db7514-e07b-4432-90fa-103494a11dfb">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="aba9d90f-5ba8-4861-b8e7-0d3782195e27">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="libs" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin1" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin2" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.10" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/ShallowWater-app.xml" package-file-name="ShallowWater">
+          <AirSigningOptions keystore-path="$MODULE_DIR$/cert.p12" />
+        </packaging-android>
+        <packaging-ios use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/ShallowWater-app.xml" package-file-name="ShallowWater" />
+      </configuration>
+      <configuration name="MobileCopter" target-platform="Mobile" main-class="MobileCopter" output-file="MobileCopter.swf" output-folder="$MODULE_DIR$/bin-debug">
+        <dependencies>
+          <entries>
+            <entry library-id="f3fff910-c62a-4162-a6f9-7d5a0cf1b593">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="af82e4e6-a760-486f-b089-92cfbfe6b5d6">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="417467fc-66b5-4e3e-b533-3f729bd78c74">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="c01b004f-01fc-4af7-9831-36e1e5841217">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="libs" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin1" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="bin2" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.10" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/MobileCopter-app.xml" package-file-name="MobileCopter">
+          <files-to-package>
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/src/assets/mh6.obj" path-in-package="assets/mh6.obj" />
+          </files-to-package>
+          <AirSigningOptions keystore-path="$MODULE_DIR$/cert.p12" />
+        </packaging-android>
+        <packaging-ios use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/src/MobileCopter-app.xml" package-file-name="MobileCopter" />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.10" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="c24867f1-1a9b-4877-ab96-0dcfdafd2bc1" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="51166601-6b75-4e72-9396-731e9e77d21e" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/away3d-core-fp11/bin/away3d-core-fp11.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="7dd7fa5b-5f21-442c-8aab-68adec179b2d" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/awayphysics-core-fp11/bin/awayphysics-core-fp11.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="2077c57c-80fc-4cbf-acc9-a7c44d2114b1" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/away3d-particles-system/bin/away3d-particles-system.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="38661f60-0a67-4693-bccd-cd53c061f07f" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="2a565692-3132-47ff-bced-08cb864dfb42" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/away3d-core-fp11/bin/away3d-core-fp11.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="5df14005-f8d7-46db-ba69-d3a55fad5054" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/awayphysics-core-fp11/bin/awayphysics-core-fp11.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="2349baa0-d20c-4dd9-87dd-ab240f3c2d6a" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/away3d-particles-system/bin/away3d-particles-system.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="0a921082-8de8-4380-96e7-30d1137b88da" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="c5df878d-44f4-4bc7-9084-1867c63509c2" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/away3d-core-fp11/bin/away3d-core-fp11.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="42db7514-e07b-4432-90fa-103494a11dfb" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/awayphysics-core-fp11/bin/awayphysics-core-fp11.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="aba9d90f-5ba8-4861-b8e7-0d3782195e27" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/away3d-particles-system/bin/away3d-particles-system.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="f3fff910-c62a-4162-a6f9-7d5a0cf1b593" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="af82e4e6-a760-486f-b089-92cfbfe6b5d6" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/away3d-core-fp11/bin/away3d-core-fp11.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="417467fc-66b5-4e3e-b533-3f729bd78c74" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/awayphysics-core-fp11/bin/awayphysics-core-fp11.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="c01b004f-01fc-4af7-9831-36e1e5841217" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/away3d-particles-system/bin/away3d-particles-system.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="libs" level="project" />
+    <orderEntry type="library" exported="" name="bin" level="project" />
+    <orderEntry type="library" exported="" name="bin1" level="project" />
+    <orderEntry type="library" exported="" name="bin2" level="project" />
+  </component>
+</module>
+

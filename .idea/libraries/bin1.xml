@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin1" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/away3d-particles-system/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/away3d-particles-system/bin" recursive="false" />
+  </library>
+</component>

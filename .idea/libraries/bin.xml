@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/away3d-core-fp11/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/away3d-core-fp11/bin" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/libs/away3d-core-fp11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/away3d-examples-fp11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/away3d-particles-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/awayphysics-core-fp11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/awayphysics-examples-fp11" vcs="Git" />
+  </component>
+</project>
+
