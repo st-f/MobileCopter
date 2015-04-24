@@ -2,8 +2,7 @@
 
 An experiment with Android apps made with Adobe AIR. It's an interactive animation of an helicopter in 3D (Away3D), using a cell shading rendering
 
-
-<img src="README_files/1.png" width="700" height="393>
+![alt text](README_files/1.png "title")
 
 **Creation date:** 11/2013
 
@@ -32,7 +31,6 @@ Just a technical demo. This experiment has no purpose at all.
 
 **Screenshots**
 
+![alt text](README_files/2.png "title")
 
-<img src="README_files/2.png" width="700" height="393">
-
-<img src="README_files/3.png" width="700" height="393">
+![alt text](README_files/3.png "title")
