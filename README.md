@@ -10,7 +10,7 @@
 
 **Development time:** 2 weeks
 
-**Requirements :**
+**Tools :**
 
 - Adobe AIR
 - Flex 4.6
